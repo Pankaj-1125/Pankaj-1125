@@ -19,7 +19,7 @@
 </div>
 <div align="center">
   <a href="https://linkedin.com/in/pankaj-bhalerao">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=4ECDC4"/>
+    <img src="https:www.linkedin.com/in/pankaj-bhalerao-83bb68335"/>
   </a>
   <a href="https://pankaj-portfolio.dev">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-View%20My%20Projects-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B6B&color=45B7D1"/>
