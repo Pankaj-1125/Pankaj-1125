@@ -21,7 +21,7 @@
   <a href="mailto:bhaleraopankaj9193@gmail.com">
     <img src="https://img.shields.io/badge/Email-bhaleraopankaj9193@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/pankaj-bhalerao">
+  <a href="www.linkedin.com/in/pankaj-bhalerao-83bb68335">
     <img src="https://img.shields.io/badge/LinkedIn-Pankaj_Bhalerao-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/pankaj-1125">
